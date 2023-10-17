@@ -1,6 +1,6 @@
 <h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Nagesh Kumar</h1>
 
-### :man_technologist: About Me 
+### :man_technologist: About Me
 - 👩🏻‍💻 Pronouns: He/Him
 - 💼 I’m currently working as a <strong>Software Engineer</strong> at Encoding Enhancers Pvt Ltd.
 - 🧭 I love exploring and working both in frontend and backend.
