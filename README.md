@@ -2,7 +2,10 @@
 
 ### :man_technologist: About Me 
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently working as a <strong>Software Engineer</strong> at [Encoding Enhancers Pvt Ltd]. 
+- 💼 I’m currently working as a <strong>Software Engineer</strong> at Encoding Enhancers Pvt Ltd.
+- 🧭 I love exploring and working both in frontend and backend.
+- 🎭 I love speaking and connecting with people.
+- 📫 How to reach me: Check social links below.
 
 ### :coffee: Hit Me Up Here
 <p align="center">
@@ -14,6 +17,9 @@
     </a>
     <a href="https://linkedin.com/in/nagesh-kumar-b5b51411a/">
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/nikku_nagesh/">
+        <img src="https://img.shields.io/badge/For_Personal_Updates-2k?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
     </a>
 </p>
 
