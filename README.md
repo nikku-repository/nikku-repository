@@ -2,7 +2,8 @@
 
 ### :man_technologist: About Me
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently working as a <strong>Software Engineer</strong> at Encoding Enhancers Pvt Ltd.
+- 💼 I’m currently working as a <strong>Software Engineer</strong> at Mindteck.
+- 💼 Former <strong>Software Engineer</strong> at Encoding Enhancers Pvt Ltd.
 - 🧭 I love exploring and working both in frontend and backend.
 - 🎭 I love speaking and connecting with people.
 - 📫 How to reach me: Check social links below.
